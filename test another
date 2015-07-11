@@ -4,4 +4,6 @@ test for T400
 
 add test conflict 13:13
 
-after change this file in remote, change this file in local, test for conflict
+
+after change
+add test confilict first, and T400 also change this file in local, for test conflicts. Be careful!
